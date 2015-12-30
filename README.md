@@ -11,7 +11,7 @@ LeagueWrap is a League of Legends API wrapper. The goal is to assist in the deve
 Install
 -------
 
-This package can be found on [packagist](https://packagist.org/packages/paquettg/leaguewrap) and is best loaded using [composer](http://getcomposer.org/). We support php 5.4, 5.5 and 5.6.
+This case only  you need its php 5.4 or mayor, clone the repo and use how the index.php
 
 Simple Example
 --------------

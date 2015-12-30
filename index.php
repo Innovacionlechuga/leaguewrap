@@ -1,7 +1,7 @@
 <?php 	
 require __DIR__ . '/vendor/autoload.php';
 use LeagueWrap\Api;
- $myKey = '6b358a5a-85ca-49d1-92d4-b148e1344e2c';
+ $myKey = 'YOUR-DEVELOPER-RIOT-API-KEY';
 $api = new Api($myKey);
 $game = $api->game();
 $games = $game->recent(74602);
